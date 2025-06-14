@@ -1,0 +1,31 @@
+E:\OneDrive\Desktop\Full Stack Development\Blazor for Front-End Development\TestDebugging\Amega Test Case\Amega Test Case\bin\Debug\net8.0\appsettings.Development.json
+E:\OneDrive\Desktop\Full Stack Development\Blazor for Front-End Development\TestDebugging\Amega Test Case\Amega Test Case\bin\Debug\net8.0\appsettings.json
+E:\OneDrive\Desktop\Full Stack Development\Blazor for Front-End Development\TestDebugging\Amega Test Case\Amega Test Case\bin\Debug\net8.0\Amega Test Case.staticwebassets.endpoints.json
+E:\OneDrive\Desktop\Full Stack Development\Blazor for Front-End Development\TestDebugging\Amega Test Case\Amega Test Case\bin\Debug\net8.0\Amega Test Case.exe
+E:\OneDrive\Desktop\Full Stack Development\Blazor for Front-End Development\TestDebugging\Amega Test Case\Amega Test Case\bin\Debug\net8.0\Amega Test Case.deps.json
+E:\OneDrive\Desktop\Full Stack Development\Blazor for Front-End Development\TestDebugging\Amega Test Case\Amega Test Case\bin\Debug\net8.0\Amega Test Case.runtimeconfig.json
+E:\OneDrive\Desktop\Full Stack Development\Blazor for Front-End Development\TestDebugging\Amega Test Case\Amega Test Case\bin\Debug\net8.0\Amega Test Case.dll
+E:\OneDrive\Desktop\Full Stack Development\Blazor for Front-End Development\TestDebugging\Amega Test Case\Amega Test Case\bin\Debug\net8.0\Amega Test Case.pdb
+E:\OneDrive\Desktop\Full Stack Development\Blazor for Front-End Development\TestDebugging\Amega Test Case\Amega Test Case\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\OneDrive\Desktop\Full Stack Development\Blazor for Front-End Development\TestDebugging\Amega Test Case\Amega Test Case\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\OneDrive\Desktop\Full Stack Development\Blazor for Front-End Development\TestDebugging\Amega Test Case\Amega Test Case\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\OneDrive\Desktop\Full Stack Development\Blazor for Front-End Development\TestDebugging\Amega Test Case\Amega Test Case\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\OneDrive\Desktop\Full Stack Development\Blazor for Front-End Development\TestDebugging\Amega Test Case\Amega Test Case\obj\Debug\net8.0\Amega Test Case.csproj.AssemblyReference.cache
+E:\OneDrive\Desktop\Full Stack Development\Blazor for Front-End Development\TestDebugging\Amega Test Case\Amega Test Case\obj\Debug\net8.0\Amega Test Case.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive\Desktop\Full Stack Development\Blazor for Front-End Development\TestDebugging\Amega Test Case\Amega Test Case\obj\Debug\net8.0\Amega Test Case.AssemblyInfoInputs.cache
+E:\OneDrive\Desktop\Full Stack Development\Blazor for Front-End Development\TestDebugging\Amega Test Case\Amega Test Case\obj\Debug\net8.0\Amega Test Case.AssemblyInfo.cs
+E:\OneDrive\Desktop\Full Stack Development\Blazor for Front-End Development\TestDebugging\Amega Test Case\Amega Test Case\obj\Debug\net8.0\Amega Test Case.csproj.CoreCompileInputs.cache
+E:\OneDrive\Desktop\Full Stack Development\Blazor for Front-End Development\TestDebugging\Amega Test Case\Amega Test Case\obj\Debug\net8.0\Amega Test Case.MvcApplicationPartsAssemblyInfo.cs
+E:\OneDrive\Desktop\Full Stack Development\Blazor for Front-End Development\TestDebugging\Amega Test Case\Amega Test Case\obj\Debug\net8.0\Amega Test Case.MvcApplicationPartsAssemblyInfo.cache
+E:\OneDrive\Desktop\Full Stack Development\Blazor for Front-End Development\TestDebugging\Amega Test Case\Amega Test Case\obj\Debug\net8.0\scopedcss\bundle\Amega Test Case.styles.css
+E:\OneDrive\Desktop\Full Stack Development\Blazor for Front-End Development\TestDebugging\Amega Test Case\Amega Test Case\obj\Debug\net8.0\staticwebassets.build.json
+E:\OneDrive\Desktop\Full Stack Development\Blazor for Front-End Development\TestDebugging\Amega Test Case\Amega Test Case\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\OneDrive\Desktop\Full Stack Development\Blazor for Front-End Development\TestDebugging\Amega Test Case\Amega Test Case\obj\Debug\net8.0\staticwebassets.development.json
+E:\OneDrive\Desktop\Full Stack Development\Blazor for Front-End Development\TestDebugging\Amega Test Case\Amega Test Case\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\OneDrive\Desktop\Full Stack Development\Blazor for Front-End Development\TestDebugging\Amega Test Case\Amega Test Case\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\OneDrive\Desktop\Full Stack Development\Blazor for Front-End Development\TestDebugging\Amega Test Case\Amega Test Case\obj\Debug\net8.0\Amega Te.B02F7BE6.Up2Date
+E:\OneDrive\Desktop\Full Stack Development\Blazor for Front-End Development\TestDebugging\Amega Test Case\Amega Test Case\obj\Debug\net8.0\Amega Test Case.dll
+E:\OneDrive\Desktop\Full Stack Development\Blazor for Front-End Development\TestDebugging\Amega Test Case\Amega Test Case\obj\Debug\net8.0\refint\Amega Test Case.dll
+E:\OneDrive\Desktop\Full Stack Development\Blazor for Front-End Development\TestDebugging\Amega Test Case\Amega Test Case\obj\Debug\net8.0\Amega Test Case.pdb
+E:\OneDrive\Desktop\Full Stack Development\Blazor for Front-End Development\TestDebugging\Amega Test Case\Amega Test Case\obj\Debug\net8.0\Amega Test Case.genruntimeconfig.cache
+E:\OneDrive\Desktop\Full Stack Development\Blazor for Front-End Development\TestDebugging\Amega Test Case\Amega Test Case\obj\Debug\net8.0\ref\Amega Test Case.dll

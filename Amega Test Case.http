@@ -1,0 +1,7 @@
+@Amega_Test_Case_HostAddress = http://localhost:5081
+
+GET {{Amega_Test_Case_HostAddress}}/weatherforecast/
+GET {{Amega_Test_Case_HostAddress}}/getinstruments/
+Accept: application/json
+
+###
