@@ -29,3 +29,4 @@ E:\OneDrive\Desktop\Full Stack Development\Blazor for Front-End Development\Test
 E:\OneDrive\Desktop\Full Stack Development\Blazor for Front-End Development\TestDebugging\Amega Test Case\Amega Test Case\obj\Debug\net8.0\Amega Test Case.pdb
 E:\OneDrive\Desktop\Full Stack Development\Blazor for Front-End Development\TestDebugging\Amega Test Case\Amega Test Case\obj\Debug\net8.0\Amega Test Case.genruntimeconfig.cache
 E:\OneDrive\Desktop\Full Stack Development\Blazor for Front-End Development\TestDebugging\Amega Test Case\Amega Test Case\obj\Debug\net8.0\ref\Amega Test Case.dll
+E:\OneDrive\Desktop\Full Stack Development\Blazor for Front-End Development\TestDebugging\Amega Test Case\Amega Test Case\obj\Debug\net8.0\Amega Test Case.sourcelink.json

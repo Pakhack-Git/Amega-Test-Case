@@ -10,12 +10,16 @@ namespace Amega_Test_Case.Controllers
     {
         private readonly IHttpClientFactory _httpClientFactory;
         private readonly ILogger<GetInstrumentsController> _logger;
-        private const string TiingoApiKey = "39042154ebdf8fe0e48ba4cb280837b6c11830dd";
+        private readonly string _tiingoApiKey;
 
-        public GetInstrumentsController(IHttpClientFactory httpClientFactory, ILogger<GetInstrumentsController> logger)
+        public GetInstrumentsController(
+            IHttpClientFactory httpClientFactory,
+            ILogger<GetInstrumentsController> logger,
+            IConfiguration configuration)
         {
             _httpClientFactory = httpClientFactory;
             _logger = logger;
+            _tiingoApiKey = configuration["Tiingo:ApiKey"];
         }
 
         public class TopOfBook
@@ -34,7 +38,7 @@ namespace Amega_Test_Case.Controllers
             _logger.LogInformation("Received request for top of book price for ticker: {Ticker}", ticker);
 
             var client = _httpClientFactory.CreateClient();
-            client.DefaultRequestHeaders.Add("Authorization", $"Token {TiingoApiKey}");
+            client.DefaultRequestHeaders.Add("Authorization", $"Token {_tiingoApiKey}");
 
             var url = $"https://api.tiingo.com/tiingo/fx/{ticker}/top";
             _logger.LogDebug("Requesting data from URL: {Url}", url);

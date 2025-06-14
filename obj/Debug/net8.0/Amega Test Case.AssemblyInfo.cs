@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Amega Test Case")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+445dc168b6674d906c9518a26b5c201b3fb2e4e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Amega Test Case")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Amega Test Case")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
